@@ -1,0 +1,65 @@
+{
+  "id": "1360689",
+  "name": "zyn",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "个人使用",
+  "glyphs": [
+    {
+      "icon_id": "4717764",
+      "name": "前进",
+      "font_class": "qianjin",
+      "unicode": "e696",
+      "unicode_decimal": 59030
+    },
+    {
+      "icon_id": "9214125",
+      "name": "link",
+      "font_class": "link",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "2517267",
+      "name": "菜单",
+      "font_class": "caidan",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "2743868",
+      "name": "菜单",
+      "font_class": "caidan1",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "11849806",
+      "name": "back",
+      "font_class": "back",
+      "unicode": "e694",
+      "unicode_decimal": 59028
+    },
+    {
+      "icon_id": "2783605",
+      "name": "王者荣耀",
+      "font_class": "wangzherongyao",
+      "unicode": "e8ca",
+      "unicode_decimal": 59594
+    },
+    {
+      "icon_id": "5080869",
+      "name": "英雄",
+      "font_class": "yingxiong",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "13058666",
+      "name": "收起",
+      "font_class": "shouqi",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    }
+  ]
+}
